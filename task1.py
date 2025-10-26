@@ -62,7 +62,7 @@ print("Task 6:")
 table = ""
 for i in range(1, 6):
     for j in range(1, 6):
-        table += "{:3}".format(i*j)  
+        table += "{:4}".format(i*j)  
     table += "\n"
 
 print(table)
