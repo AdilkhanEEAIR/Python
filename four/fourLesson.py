@@ -71,3 +71,9 @@ if search in list1:
     print(f"{search} is in the list")
 else:
     print(f"{search} is not in the list")
+
+is_even = int(input("Enter a number: "))
+if is_even % 2 == 0:
+    print("Its even")
+else:
+    print("It isnt even")

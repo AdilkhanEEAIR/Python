@@ -1,0 +1,46 @@
+# print("Task 1:")
+# a = str(32)
+# b = str(3.5)
+# x = str(True)
+# print(a, b, x)
+# print()
+
+# print("Task 2:")
+# str_ = input("Enter a string: \n")
+# # print(str_)
+# print()
+
+# print("Task 3:")
+# name = input("Write your name: \n")
+# surname = input("Write your surname: \n")
+# # print(name, surname)
+# print()
+
+# print("Task 4:")
+# res = name + ' ' + surname
+# print(res)
+# print()
+
+# print("Task 5:")
+# name1 = input("Write your name: \n")
+# score1 = input("Write your score: \n")
+# print(f"Hello, {name1}. Your score is {score1}")
+# print()
+
+# print("Task 6:")
+# name2 = input("Write your name: \n")
+# age2 = input("Write your age: \n")
+# print(f"Меня зовут {name2}, и мне {age2} лет.")
+# print()
+
+print("Task 7:")
+str = 'python is easy'
+print(str[0])
+print(str[-1])
+print(str[0:2])
+print(str[-3:])
+print(str[2:5])
+print(str[1:9])
+print(str[1:-1])
+print(str[::2])
+print(str[1::2])
